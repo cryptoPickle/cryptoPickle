@@ -5,3 +5,5 @@
 Welcome to my profile. I am ***Halil***! I am a passionate developer, most of my works are private you may find cool stuff around here.
 
 Will be edited :stuck_out_tongue_closed_eyes:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OzyyDemir&layout=compact&theme=onedark)]
