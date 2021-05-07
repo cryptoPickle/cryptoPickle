@@ -6,4 +6,4 @@ Welcome to my profile. I am ***Halil***! I am a passionate developer, most of my
 
 Will be edited :stuck_out_tongue_closed_eyes:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OzyyDemir&layout=compact&theme=onedark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptopickle&layout=compact&theme=onedark)]
